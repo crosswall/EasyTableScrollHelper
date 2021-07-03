@@ -13,6 +13,5 @@
 ```
 
 ### 如何布局
-![avatar](https://github.com/crosswall/EasyTableSrcollHelper/blob/master/media/table_scroll_ui.png)
-
+<img src=https://github.com/crosswall/EasyTableSrcollHelper/blob/master/media/table_scroll_ui.png width=60% />
 ### 视频演示

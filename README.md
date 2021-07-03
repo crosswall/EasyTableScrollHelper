@@ -13,5 +13,9 @@
 ```
 
 ### 如何布局
-<img src=https://github.com/crosswall/EasyTableSrcollHelper/blob/master/media/table_scroll_ui.png width=60% />
+<img src=https://github.com/crosswall/EasyTableSrcollHelper/blob/master/media/table_scroll_ui.png width=40% />
+
 ### 视频演示
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://github.com/crosswall/EasyTableSrcollHelper/blob/master/media/1625301684992688.mp4" type="video/mp4">
+</video>

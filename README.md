@@ -1,25 +1,25 @@
 ### EasyTableScrollHelper 
 
-一种基于recyclerView来实现的简单、高效、快速的上下左右列表滑动方案，仅使用一个类搞定一个复杂逻辑，基本对业务代码0干扰、0侵入！
+A lightweight tableView container helper based on recyclerView, Tiny and fast, Easy to use, No intrusion into business code.
 
-#### GIF演示
-<img src=https://github.com/crosswall/EasyTableScrollHelper/blob/master/media/7m470-ziz2l.gif width=40% />
+#### GIF Demo
+<img src=https://github.com/crosswall/EasyTableScrollHelper/blob/master/media/7m470-ziz2l.gif width=35% />
 
-#### 它能干什么
->* 股票自选详情列表
->* 汽车、游戏装备属性展示
->* 类似自定义excel表格
+#### Business scenes
+>* List of stock optional details
+>* Car and game equipment attribute display
+>* Custom table view
 
-#### 如何使用
+#### How to use
 ```code
-    //代码
+    //step 1 Init TableScrollHelper
     new TableScrollHelper().attachToRecyclerView(YOUR_RECYCLER_VIEW, YOUR_RECYCLER_ADAPTER, YOUR_TABLE_HEADER);
 
-    //itemView中需要被滑动的视图设置tag
+    //step 2 Set tag for the childView of itemView
     android:tag="table_scroll_container"
 ```
 
-#### 如何布局
-<img src=https://github.com/crosswall/EasyTableScrollHelper/blob/master/media/table_scroll_ui.png width=40% />
+#### How to layout
+<img src=https://github.com/crosswall/EasyTableScrollHelper/blob/master/media/table_scroll_ui.png width=50% />
 
 
